@@ -1,0 +1,6 @@
+# github.com/psanford/sqlite3vfs v0.0.0-20210823054414-6197b9fad12f
+## explicit
+github.com/psanford/sqlite3vfs
+# github.com/psanford/sqlite3vfshttp v0.0.0-20210815150654-07be1ade312e
+## explicit
+github.com/psanford/sqlite3vfshttp
